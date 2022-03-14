@@ -1,0 +1,9 @@
+.mapboxgl-popup {
+    background-color: none;
+}
+
+.mapboxgl-popup-content {
+    background-color: white;
+    max-width: 300px;
+    min-width: 200px;
+}
